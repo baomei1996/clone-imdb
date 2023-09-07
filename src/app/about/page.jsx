@@ -1,6 +1,6 @@
 export default function Page() {
     return (
-        <div className="max-w-6xl mx-auto space-x-4">
+        <div className="max-w-6xl mx-auto space-y-4 p-4">
             <h1 className="test-2xl font-medium text-amber-600">About</h1>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
